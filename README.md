@@ -1,3 +1,12 @@
+<center>
+#Weather application written using the React library. To create the application, I used the public weather API and React Router Dom. 
+  <img src="https://rafal-podraza.pl/img/projekty/weatherReactApp.png" alt="logo" />
+  
+  <h3>DEMO: <a href="https://modest-borg-372079.netlify.com/">CLICK HERE</a></h3>
+</center>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
